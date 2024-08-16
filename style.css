@@ -1,6 +1,14 @@
-.cabecalho{
-    background-color: rgb(136, 127, 255);
+.cabecalho {
+    background-color: rgba(136, 127, 255, 0.295);
     color: black;
     display: flex;
     padding: 24px 0;
+}
+
+.section1 {
+    background-color: azure;
+}
+
+.section2 {
+    background-color: rgba(250, 235, 215, 0.342);
 }
